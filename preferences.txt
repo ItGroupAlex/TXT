@@ -1,0 +1,6 @@
+man:Alex
+film:Список Шиндлера
+serial:Побег
+food:Суши
+season:Лето
+country:Мальдивы  

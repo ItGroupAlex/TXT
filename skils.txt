@@ -1,0 +1,4 @@
+man:Alex;
+skil1:English;
+skil2:QA;
+skil3:Python.  
